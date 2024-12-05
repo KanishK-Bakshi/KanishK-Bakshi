@@ -1,5 +1,3 @@
 - 👋 Hi, I’m @KanishK-Bakshi
-- 👀 I’m interested in Information Security and Artificial Intelligence
-- 🌱 I’m currently learning
-- 💞️ I’m looking to collaborate on open source projects related to Deep Learning
-- 📫 Mail me at kanishkbakshi@outlook.com
+- 👀 I’m interested in Quantum Information and Artificial Intelligence
+
